@@ -1,6 +1,6 @@
 <div align="center">
   
-  # GeeksforGeeks Solutions and Progress Tracker
+# GeeksforGeeks Solutions and Progress Tracker
 
 ![GeeksforGeeks Logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png)
 </div>
